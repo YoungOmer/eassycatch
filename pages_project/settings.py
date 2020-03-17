@@ -25,7 +25,7 @@ SECRET_KEY = 'amk!p(j8ojzy0zbkwk%dup)v=#-=o43+(6lw2y63iv3p6nhd=w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
